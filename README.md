@@ -34,10 +34,10 @@ Public search with RAG answers over research entries, plus scikit-learn RandomFo
 
 ## Experience
 
-**Data Science and Machine Learning Intern, Forward IT** · 2026 to present
+**Data Science and Machine Learning Intern, Forward IT** · 2026 to present<br>
 Data cleaning, feature engineering, and training classification and regression models with scikit-learn and XGBoost. Integrating FastAPI inference services with Next.js and Node.js applications.
 
-**Web Developer, Ecommander LTD** · Oct 2024 to Jul 2025
+**Web Developer, Ecommander LTD** · Oct 2024 to Jul 2025<br>
 Built and maintained client websites, fixed UI bugs with theme and backend developers, and contributed responsive components and REST API integrations to MERN modules.
 
 ## Tech stack
