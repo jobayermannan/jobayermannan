@@ -12,6 +12,8 @@ Dhaka, Bangladesh. Open to junior full-stack, backend, Python and data roles, on
 
 I build full-stack web applications with Next.js, TypeScript, Node.js and SQL databases, and I connect machine learning services to them with FastAPI. I am currently a Data Science and Machine Learning Intern at Forward IT.
 
+I am also enthusiastic about automation and AI agent engineering, and about business, marketing and content creation.
+
 ## Featured projects
 
 ### [Food Intelligence Platform](https://food-intelligence-platform-web.vercel.app) · [Code](https://github.com/jobayermannan/food-intelligence-platform)
